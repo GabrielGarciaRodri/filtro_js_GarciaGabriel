@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "async": "^3.2.5",
     "lit": "^3.1.2"
   },
   "devDependencies": {
